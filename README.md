@@ -10,3 +10,4 @@ I love Leetcode questions (┬＿┬)
 - [x] Day 7 - 10/20 - 3
 - [x] Day 8 - 10/28 - 3
 - [x] Day 9 - 10/29 - 7
+- [x] Day 10 - 10/30 - 7
